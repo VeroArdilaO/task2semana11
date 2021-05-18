@@ -14,7 +14,7 @@ abstract class Character {
 
 class HarryPotter extends Character {
 
-      introduce() {
+      introduce():string {
        return 'Good afternoon, my name is Harry James Potter and I belong to the 	Gryffindor House'
       }
       parselTongues(): boolean {
