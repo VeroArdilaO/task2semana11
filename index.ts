@@ -33,7 +33,7 @@ class DracoMalfoy extends Character {
       }
 
       potions():string {
-        return 'able to pass his O.W.L Ordinary Wizarding Level as the best in pot'
+        return 'able to pass his O.W.L Ordinary Wizarding Level as the best in potions'
       }
       Wand(): string {
        return '10", Hawthorn, unicorn hair'
