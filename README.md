@@ -13,4 +13,7 @@ No olvides agregar algunos comportamientos propios de este personaje. (métodos)
 Antagonista principal que hereda de Character
 No olvides agregar algunos comportamientos propios de este personaje. (métodos) 
 
+Y Usando la jerarquía de clases de la tarea anterior, implementa:
+Dos métodos genéricos sobre por lo menos una de las clases, la del protagonista o el antagonista.
+
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/task2semana11)
